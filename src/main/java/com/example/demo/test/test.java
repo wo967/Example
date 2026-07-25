@@ -1,0 +1,8 @@
+package com.example.demo.test;
+
+public class test {
+
+    public void test() {
+        System.out.println("test");
+    }
+}
